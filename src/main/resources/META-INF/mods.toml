@@ -1,5 +1,5 @@
 modLoader="javafml"
-loaderVersion="[35,)"
+loaderVersion="[37,)"
 license="GPLv3"
 issueTrackerURL="https://github.com/yungnickyoung/Paxi/issues"
 
@@ -16,13 +16,13 @@ displayURL="https://www.curseforge.com/minecraft/mc-mods/paxi"
 [[dependencies.paxi]]
 modId="forge"
 mandatory=true
-versionRange="[35,)"
+versionRange="[37,)"
 ordering="NONE"
 side="SERVER"
 
 [[dependencies.paxi]]
 modId="yungsapi"
-versionRange="[1.16.4-Forge-12,)"
+versionRange="[1.17-Forge-100,)"
 mandatory=true
 ordering="NONE"
 side="BOTH"
